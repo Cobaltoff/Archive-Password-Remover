@@ -18,7 +18,7 @@ A lightweight, fast, and user-friendly Windows desktop application designed to s
 * **Architecture:** Asynchronous Task programming (`async/await`)
 
 ## 🚀 How to Use
-1. Download the latest `SifreKaldir.exe` from the [Releases](#) section.
+1. Download the latest `RemovePass.exe` from the [Releases](#) section.
 2. Drag and drop your locked `.zip` or `.rar` file into the application.
 3. Enter the correct password for the archive.
 4. Select a save location (the app will remember this for future uses).
